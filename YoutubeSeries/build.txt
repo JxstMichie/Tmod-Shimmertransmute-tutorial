@@ -1,0 +1,3 @@
+displayName = Press Subscribe
+author = Michie
+version = 0.1
